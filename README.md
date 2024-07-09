@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **MERN Stuck**
 
-- 👨‍💻 All of my projects are available at [https://bethelemmelese.github.io/developerBetyPortofolio/](https://bethelemmelese.github.io/developerBetyPortofolio/)
-
 - 💬 Ask me about **react, redux, node js, mongodb**
 
 - 📫 How to reach me **melesebety2673@gmail.com**
