@@ -28,3 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bethelemmelese&show_icons=true&locale=en" alt="bethelemmelese" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bethelemmelese&" alt="bethelemmelese" /></p>
+
+[![BethelemMelese's GitHub | Stats](https://stats.quira.sh/BethelemMelese/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=BethelemMelese)
+
+[![BethelemMelese's GitHub | Languages Over Time](https://stats.quira.sh/BethelemMelese/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=BethelemMelese)
