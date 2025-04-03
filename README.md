@@ -1,13 +1,18 @@
-<h1 align="left">Hi 👋, I'm Betty</h1>
+# 👋 Hi, I'm Bethelem Melese 
 <h3 align="left">A software developer from Addis Ababa, Ethiopia</h3>
+ 
+**Senior Software Developer | MERN Stack Developer**  
+🔹 Passionate about building scalable, robust, and user-friendly applications.  
+🔹 Experienced in frontend & backend development with a focus on React, TypeScript, and Node.js.  
+🔹 Enthusiastic about DevOps, performance optimization, and clean architecture.  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bethelemmelese&label=Profile%20views&color=0e75b6&style=flat" alt="bethelemmelese" /> </p>
 
 - 🔭 I’m currently working on **personal project**
 
-- 🌱 I’m currently learning **MERN Stuck**
+- 🌱 I’m currently working on **BSB-Ecommerce Website**
 
-- 💬 Ask me about **react, redux, node js, mongodb**
+- 💬 Ask me about **react**
 
 - 📫 How to reach me **melesebety2673@gmail.com**
 
