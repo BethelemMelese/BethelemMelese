@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Bethelem Melese 
 <h3 align="left">A software developer from Addis Ababa, Ethiopia</h3>
  
-**Senior Software Developer | MERN Stack Developer**  
+**Software Developer**  
 🔹 Passionate about building scalable, robust, and user-friendly applications.  
 🔹 Experienced in frontend & backend development with a focus on React, TypeScript, and Node.js.  
 🔹 Enthusiastic about DevOps, performance optimization, and clean architecture.  
@@ -61,8 +61,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=bethelemmelese&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bethelemmelese&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
