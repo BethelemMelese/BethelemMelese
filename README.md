@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on **personal project**
 
-- 🌱 I’m currently working on **BSB-Ecommerce Website**
+- 🌱 I’m currently working on **B2B-Ecommerce Website**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **react, next.js**
 
 - 📫 How to reach me **melesebety2673@gmail.com**
 
