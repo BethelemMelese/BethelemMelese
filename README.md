@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bethelem Melese
 
-### Software Developer | Backend & Business Applications | DevOps
+### Software Developer | Backend & Business Applications
 
 I'm a software developer focused on building practical, reliable, and maintainable software systems.
 
