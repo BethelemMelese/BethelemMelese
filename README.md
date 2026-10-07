@@ -1,73 +1,85 @@
-# 👋 Hi, I'm Bethelem Melese 
-<h3 align="left">A software developer from Addis Ababa, Ethiopia</h3>
- 
-**Software Developer**  
-🔹 Passionate about building scalable, robust, and user-friendly applications.  
-🔹 Experienced in frontend & backend development with a focus on React, TypeScript, and Node.js.  
-🔹 Enthusiastic about DevOps, performance optimization, and clean architecture.  
+# 👋 Hi, I'm Bethelem Melese
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bethelemmelese&label=Profile%20views&color=0e75b6&style=flat" alt="bethelemmelese" /> </p>
+### Software Developer | Backend & Business Applications | DevOps
 
-- 🔭 I’m currently working on **personal project**
+I'm a software developer focused on building practical, reliable, and maintainable software systems.
 
-- 🌱 I’m currently working on **B2B-Ecommerce Website**
+My experience spans frontend and backend development, business applications, integrations, mobile applications, and software delivery. I'm particularly interested in backend engineering, system design, APIs, automation, and solving real business problems through software.
 
-- 💬 Ask me about **react, next.js**
+> Some of my professional work is maintained in private company and client repositories and therefore isn't publicly available here.
 
-- 📫 How to reach me **melesebety2673@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+## 🛠️ Technologies & Tools
+
+### Languages
+Java · JavaScript · TypeScript · Python · C#
+
+### Backend & Frameworks
+Spring Boot · Node.js · Express.js · .NET · Odoo
+
+### Frontend
+React · Next.js · React Native
+
+### Databases & Messaging
+PostgreSQL · MySQL · MongoDB · Redis · RabbitMQ
+
+### DevOps & Tools
+Docker · Jenkins · Git · GitHub · Postman · CI/CD
+
+---
+
+## 💡 Areas of Interest
+
+- Backend Engineering
+- REST API Design
+- System Design & Architecture
+- Business Applications & Integrations
+- Database Design
+- Distributed & Event-Driven Systems
+- CI/CD & DevOps
+- Odoo Development & Customization
+- FinTech Systems
+- Practical AI Integration
+
+---
+
+## 📚 Currently Learning
+
+I'm currently deepening my knowledge of:
+
+- Spring Boot & Java
+- PostgreSQL
+- Redis
+- RabbitMQ
+- System Design
+- Docker & CI/CD
+- FinTech Architecture
+- Odoo Development & Customization
+- AI integration into software development workflows
+
+My focus is not simply learning technologies, but understanding **when, why, and how to use them effectively in real-world systems.**
+
+---
+
+## 🤝 Connect With Me
+
 <p align="left">
-<a href="https://linkedin.com/in/betty-melese" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="betty-melese" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/23661521" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23661521" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@melesebety2673" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@melesebety2673" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/betty-melese" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="betty-melese" height="30" width="40" />
+</a>
+<a href="https://stackoverflow.com/users/23661521" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23661521" height="30" width="40" />
+</a>
+<a href="https://www.hackerrank.com/@melesebety2673" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/hackerrank.svg" alt="@melesebety2673" height="30" width="40" />
+</a>
 </p>
 
-###
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> </a> 
-<img width="12"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/>
-<img width="12"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/>
-<img width="12"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="30" height="30"/> 
-<img width="12"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30"/>
-<img width="12"/>
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30"/>
-<img width="12"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> 
-<img width="12"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
-<img width="12"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/>
-<img width="12"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/> 
-<img width="12"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/>
-<img width="12"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
-<img width="12"/>
-<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="30" height="30"/>
-<img width="12"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30"/>
-<img width="12"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
-<img width="12"/>
-</div>
+📫 **Email:** melesebety2673@gmail.com
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bethelemmelese&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bethelemmelese&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-
-💻 *Always open to exciting projects & collaborations! Feel free to reach out!* 🚀
-
-###
+<p align="center">
+<i>Building software, learning continuously, and improving one system at a time.</i>
+</p>
